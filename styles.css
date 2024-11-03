@@ -28,6 +28,12 @@ p {
 	padding-bottom: .75em;
 }
 
+#container{
+	width: 900px;
+	margin: 0 auto;
+	padding: 150px 0 0 0;
+	background: url(birds.png) center 85px no-repeat;
+}
 /* demo box-shadow divs */
 #container div:nth-of-type(1){
     
